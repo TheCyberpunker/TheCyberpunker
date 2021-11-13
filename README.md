@@ -27,8 +27,6 @@ Computer Science alumnus at [University of ](https://www.). Cyber Security enthu
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![TheCyberpunker's github stats](https://github-readme-stats.vercel.app/api?username=TheCyberpunker&show_icons=true&hide_border=true)
-
 [twitter]: https://twitter.com/thecyberpunker/
 [github]: https://github.com/TheCyberpunker
 [site]: https://thecyberpunker.com/
