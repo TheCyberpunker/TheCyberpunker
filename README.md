@@ -9,6 +9,7 @@
 
 Computer Science alumnus at [University of ](https://www.). Cyber Security enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. Proudly from [unknown, unknown](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
+- 🏢 I'm currently working at **Medicare Portugal**
 - 🔭 Bachelor's degree in **Computer Science** at UniBo
 - 🌱 I’m currently learning **Cyber Security** at UniMore
 - 🌱 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
