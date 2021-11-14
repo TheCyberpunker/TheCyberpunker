@@ -1,6 +1,8 @@
-# Hi There, I'm Luis Miguel (aka TheCyberpunker) 👋
+### Hi There, I'm Luis Miguel (aka TheCyberpunker) 👋
 
-Computer Science alumnus at [University of ](https://www.). Cyber Security enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. Proudly from [unknown, unknown](https://g.page/Due-Torri-Bologna?share) 🇮🇹
+#### I'm a Penetration Tester working in Colombia.
+
+##### NOW
 
 - 🏢 I'm currently working at **Medicare Portugal**
 - 🔭 Bachelor's degree in **Computer Science** at UniBo
