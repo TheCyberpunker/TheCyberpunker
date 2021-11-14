@@ -14,7 +14,7 @@ Computer Science alumnus at [University of ](https://www.). Cyber Security enthu
 
 - Twitter: [twitter.com/thecyberpunker][twitter]
 - GitHub: [github.com/TheCyberpunker][github]
-- LinkedIn: [linkedin.com/in/thecyberpunker] [linkedin] 
+- LinkedIn: [linkedin.com/in/thecyberpunker][linkedin] 
 - Site: [thecyberpunker.com][site]
 - E-mail: @
 
