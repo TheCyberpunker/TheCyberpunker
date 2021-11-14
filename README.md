@@ -1,11 +1,4 @@
-# Hello, I'm Luis Miguel (aka TheCyberpunker) 👋
-
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+# Hi There, I'm Luis Miguel (aka TheCyberpunker) 👋
 
 Computer Science alumnus at [University of ](https://www.). Cyber Security enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. Proudly from [unknown, unknown](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
@@ -30,3 +23,10 @@ Computer Science alumnus at [University of ](https://www.). Cyber Security enthu
 [twitter]: https://twitter.com/thecyberpunker/
 [github]: https://github.com/TheCyberpunker
 [site]: https://thecyberpunker.com/
+
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/Linux-Intermediate-green)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-green)
