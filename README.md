@@ -4,13 +4,13 @@
 
 ##### NOW
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- 🔭 Bachelor's degree in **Computer Science** at UniBo
-- 🌱 I’m currently learning **Cyber Security** at UniMore
+- 🏢 I'm currently working at **Cybersecurity Field**
+- 🔭 Certificate in **IT specialist** at Google
+- 🌱 I’m currently learning **Cyber Security**
 - 🌱 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
-- ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
+- ⚙️ Mastering Technologies: `.py`, `.html`,`.css`,`.js`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
-- 💬 I'm mostly active within the **Cyber Security**, **Vue.JS**, **Node.JS** and **Unity 3D** communities
+- 💬 I'm mostly active within the **Cyber Security**, **Python**, **Certs** and **Unity 3D** communities
 
 ### 📬 Get in Touch
 
