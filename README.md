@@ -14,7 +14,7 @@ Computer Science alumnus at [University of ](https://www.). Cyber Security enthu
 
 - Twitter: [twitter.com/thecyberpunker][twitter]
 - GitHub: [github.com/TheCyberpunker][github]
-- LinkedIn: [linkedin.com/in/thecyberpunker][site] 
+- LinkedIn: [linkedin.com/in/thecyberpunker][linkedin] 
 - Site: [thecyberpunker.com][site]
 - E-mail: @
 
@@ -23,6 +23,7 @@ Computer Science alumnus at [University of ](https://www.). Cyber Security enthu
 [twitter]: https://twitter.com/thecyberpunker/
 [github]: https://github.com/TheCyberpunker
 [site]: https://thecyberpunker.com/
+[linkedin]: https://linkedin.com/in/thecyberpunker/
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
