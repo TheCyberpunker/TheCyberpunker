@@ -1,14 +1,15 @@
 ### Hi There, I'm Luis Miguel (aka TheCyberpunker) 👋
 
-#### I'm a Penetration Tester working in Colombia.
+#### I'm a Penetration Tester.
 
 ##### NOW
 
 - 🏢 I'm currently working at **Cybersecurity Field**
+- 🔭 Certificate in **CEH PRACTICAL**
 - 🔭 Certificate in **IT specialist** at Google
 - 🌱 I’m currently learning **Cyber Security**
 - 🌱 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
-- ⚙️ Mastering Technologies: `.py`, `.html`,`.css`,`.js`
+- ⚙️ Mastering Technologies: `.go` `.py`, `.html`,`.css`,`.js`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
 - 💬 I'm mostly active within the **Cyber Security**, **Python**, **Certs** and **Unity 3D** communities
 
