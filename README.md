@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
 - ⚙️ Mastering Technologies: `.go` `.py`, `.html`,`.css`,`.js`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
-- 💬 I'm mostly active within the **Cyber Security**, **Python**, **Certs** and **Unity 3D** communities
+- 💬 I'm mostly active within the **Cyber Security**, **Python**, **Certs** communities
 
 ### 📬 Get in Touch
 
@@ -19,9 +19,8 @@
 - GitHub: [github.com/TheCyberpunker][github]
 - LinkedIn: [linkedin.com/in/thecyberpunker][linkedin] 
 - Site: [thecyberpunker.com][site]
-- E-mail: @
 
-### 📚 Looking for my Resume? E-Mail me!
+### 📚 Looking for my Resume? Linkedin could help!
 
 [twitter]: https://twitter.com/thecyberpunker/
 [github]: https://github.com/TheCyberpunker
