@@ -1,6 +1,6 @@
-### Hi There, I'm Luis Miguel (aka TheCyberpunker) 👋
+### Hi There, I'm Luis Uribe - TheCyberpunker 👋
 
-#### I'm a Penetration Tester.
+#### I'm an Offensive Security Engineer.
 
 ##### NOW
 
