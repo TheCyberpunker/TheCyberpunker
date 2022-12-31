@@ -4,13 +4,12 @@
 
 ##### NOW
 
-- 🏢 I'm currently working at **Cybersecurity Field**
+- 🏢 I'm currently working at **RedTeam Field**
 - 🔭 Certificate in **CEH PRACTICAL**
-- 🔭 Certificate in **IT specialist** at Google
 - 🌱 I’m currently learning **Cyber Security**
-- 🌱 I’m currently learning **Security Analyst** and **Web-App Vulnerabilities**
-- ⚙️ Mastering Technologies: `.go` `.py`, `.html`,`.css`,`.js`
-- 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
+- 🌱 I’m currently learning **Pentesting** and **Web-App Vulnerabilities**
+- ⚙️ Mastering Technologies: `.go` `.py`,`.js`
+- 👯 I’m looking to collaborate on **Open Source** and/or **Hacking** projects
 - 💬 I'm mostly active within the **Cyber Security**, **Python**, **Certs** communities
 
 ### 📬 Get in Touch
