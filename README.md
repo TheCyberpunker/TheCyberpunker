@@ -1,6 +1,6 @@
-### Hi There, I'm Luis Uribe - TheCyberpunker 👋
+### Hi There, I'm TheCyberpunker 👋
 
-#### I'm an Offensive Security Engineer.
+### I'm an Offensive Security Engineer.
 
 ##### NOW
 
