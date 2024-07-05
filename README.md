@@ -5,8 +5,6 @@
 ##### NOW
 
 - 🏢 I'm currently working at **RedTeam Field**
-- 🔭 Certificate in **CEH PRACTICAL**
-- 🌱 I’m currently learning **Cyber Security**
 - 🌱 I’m currently learning **Pentesting** and **Web-App Vulnerabilities**
 - ⚙️ Mastering Technologies: `.go` `.py`,`.js`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Hacking** projects
