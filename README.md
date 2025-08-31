@@ -5,7 +5,6 @@
 ##### NOW
 
 - 🏢 I'm currently working at **RedTeam Field**
-- 🌱 I’m currently learning **Pentesting** and **Web-App Vulnerabilities**
 - ⚙️ Mastering Technologies: `.go` `.py`,`.js`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Hacking** projects
 - 💬 I'm mostly active within the **Cyber Security**, **Python**, **Certs** communities
